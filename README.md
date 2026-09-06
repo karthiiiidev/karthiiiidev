@@ -13,6 +13,7 @@
   <a href="https://karthiiiidev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/karthiiiidev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:karthiiii.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+919447465436"><img src="https://img.shields.io/badge/+91%209447465436-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Trivandrum,%20Kerala-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
@@ -25,42 +26,92 @@
 
 ### 🚀 About Me
 
-- 💼 **Founder & Web Developer** at **[QUADMEDIA.TVM](https://karthiiiidev.vercel.app)** — building responsive, SEO-optimized websites for 10+ corporate and retail clients since April 2026
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at STIST, Kazhakootam
-- 🛠️ Shipped **6+ production websites** end-to-end — requirements, development, hosting, deployment, and post-launch support
-- 🎨 Secondary creative track in **graphic design, video editing, and brand identity**
+Web Developer and Front-End Developer with hands-on experience building responsive, SEO-optimized websites and delivering projects from requirements through deployment.
+
+- 💼 **Founder & Web Developer** at **[QUADMEDIA.TVM](https://karthiiiidev.vercel.app)**, Trivandrum — since April 2026
+- 🎓 **B.Tech in Computer Science & Engineering**, St. Thomas Institute for Science and Technology (STIST), Kazhakootam — 2026–2030 (Ongoing)
+- 🛠️ Delivered **6+ responsive, production websites** for **10+ corporate and retail clients**, end-to-end — requirements, dev, hosting, deployment, and post-launch support
+- 🔍 Focused on performance, accessibility, cross-browser compatibility, mobile responsiveness, and on-page SEO
+- 🎨 Secondary creative track: graphic design, brand identity, and video/photo production
 - 🌐 Portfolio: **[karthiiiidev.vercel.app](https://karthiiiidev.vercel.app)**
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack & Skills
 
+**Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+**Database**
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Web Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/Front--End%20Development-38BDF8?style=for-the-badge&logo=htmx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-38BDF8?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**CMS**
+<p align="left">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+</p>
+
+**Version Control & Deployment**
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website%20Hosting-4B5563?style=for-the-badge&logo=serverfault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website%20Deployment-4B5563?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+**SEO & Performance**
+<p align="left">
+  <img src="https://img.shields.io/badge/SEO%20Optimization-38BDF8?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Performance-38BDF8?style=for-the-badge&logo=speedtest&logoColor=white" />
+</p>
+
+**Tools & Creative**
+<p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Motion%20Graphics-FF6F00?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graphic%20Design-EA4C89?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Video%20Editing-9146FF?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 </p>
 
 ---
 
-### 💼 Selected Projects
+### 💼 Professional Experience
+
+**Founder & Web Developer** — QUADMEDIA.TVM, Trivandrum, Kerala | Apr 2026 – Present
+- Founded and currently operate QUADMEDIA.TVM, delivering responsive and SEO-optimized websites for 10+ corporate and retail clients
+- Developed and deployed 6+ responsive websites using HTML5, CSS3, and JavaScript with emphasis on performance, accessibility, cross-browser compatibility, and mobile responsiveness
+- Managed projects end-to-end: requirements gathering, development, testing, hosting, deployment, and post-launch support
+- Deployed production websites via Vercel; managed hosting, domain/DNS configuration, and deployment workflows
+- Worked directly with clients to scope requirements and deliver solutions aligned with business needs
+- Optimized content, images, code, and on-page SEO elements to improve performance and search visibility
+
+---
+
+### 🌟 Selected Web Development Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛕 Devasthanam Website</h4>
+      <h4>🛕 Pengattumadom Sree Vishnumaya Rektheswary Devasthanam</h4>
       <p>Responsive site with WhatsApp, Instagram, YouTube & Facebook integrations, inquiry forms, and a client review system.</p>
       <a href="https://pengattumadomsreevishnumaya.com">🔗 pengattumadomsreevishnumaya.com</a>
     </td>
     <td width="50%" valign="top">
-      <h4>🏭 MSAFE Industries</h4>
+      <h4>🏭 MSAFE Industries Corporate Website</h4>
       <p>Corporate website engineered for page speed, SEO, accessibility, and a professional business presentation.</p>
       <a href="https://msafeindustries.in">🔗 msafeindustries.in</a>
     </td>
@@ -68,23 +119,48 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🚗 Belmin Drive Clicks</h4>
-      <p>Travel agency platform with structured navigation and business-focused content presentation.</p>
+      <p>Responsive travel agency website with structured navigation and business-focused content presentation.</p>
       <a href="https://belmindriveclicks.in">🔗 belmindriveclicks.in</a>
     </td>
     <td width="50%" valign="top">
       <h4>✈️ Arappurayil Travel Agency</h4>
-      <p>Responsive site for a travel agency operating across Punjab and Thiruvananthapuram.</p>
+      <p>Responsive website for a travel agency based in Punjab and Thiruvananthapuram, Kerala.</p>
       <a href="https://arappurayiltravelagency.in">🔗 arappurayiltravelagency.in</a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4>🎯 DARTS Event Management</h4>
-      <p>Event-management website supporting event information, planning, and client-facing operations.</p>
+      <h4>🎯 DARTS Event Management Website</h4>
+      <p>Engineered an event-management website supporting event information, planning, and client-facing operations.</p>
       <a href="https://karthiiiidev.github.io/DARTS">🔗 karthiiiidev.github.io/DARTS</a>
     </td>
   </tr>
 </table>
+
+---
+
+### 🎨 Additional Graphic Design Experience
+
+**Graphic Design & Brand Identity**
+- Created corporate merchandise and print collateral including business cards, apparel, bags, and branded typography
+- Retained as secondary creative experience alongside web development work
+
+---
+
+### 🎓 Education
+
+- **Bachelor of Technology (B.Tech), Computer Science and Engineering**
+  St. Thomas Institute for Science and Technology (STIST), Kazhakootam, Trivandrum, Kerala | 2026–2030 (Ongoing)
+- **Higher Secondary Education**
+  St. Thomas Higher Secondary School (STHSS), Mukkollakkal, Trivandrum, Kerala | Completed 2026
+
+---
+
+### 🏅 Leadership & Activities
+
+- 🌱 **NSS Leader**, STHSS (2024–2026) — led community service initiatives and social awareness programs for student teams
+- 🏆 **Blue House Captain**, STHSS (2025–2026) — managed house activities and coordinated sports tournaments for 100+ students
+- 🎥 **Media Team Head**, STHSS (2025–2026) — directed video production and photography coverage for institutional events
 
 ---
 
@@ -103,14 +179,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/karthiiiidev/karthiiiidev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
-
----
-
-### 🏅 Leadership & Activities
-
-- 🌱 **NSS Leader**, STHSS (2024–2026) — led community service and social awareness programs
-- 🏆 **Blue House Captain**, STHSS (2025–2026) — coordinated sports tournaments for 100+ students
-- 🎥 **Media Team Head**, STHSS (2025–2026) — directed video production and photography for institutional events
 
 ---
 
