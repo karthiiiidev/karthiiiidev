@@ -13,7 +13,6 @@
   <a href="https://karthiiiidev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/karthiiiidev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:karthiiii.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+919447465436"><img src="https://img.shields.io/badge/+91%209447465436-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Trivandrum,%20Kerala-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
