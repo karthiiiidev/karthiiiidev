@@ -28,7 +28,7 @@
 
 Web Developer and Front-End Developer with hands-on experience building responsive, SEO-optimized websites and delivering projects from requirements through deployment.
 
-- 💼 **Founder & Web Developer** at **[QUADMEDIA.TVM](https://karthiiiidev.vercel.app)**, Trivandrum — since April 2026
+- 💼 **Founder & Web Developer** at **[QUADMEDIA.TVM](https://quadmedia-tvm.vercel.app)**, Trivandrum — since April 2026
 - 🎓 **B.Tech in Computer Science & Engineering**, St. Thomas Institute for Science and Technology (STIST), Kazhakootam — 2026–2030 (Ongoing)
 - 🛠️ Delivered **6+ responsive, production websites** for **10+ corporate and retail clients**, end-to-end — requirements, dev, hosting, deployment, and post-launch support
 - 🔍 Focused on performance, accessibility, cross-browser compatibility, mobile responsiveness, and on-page SEO
