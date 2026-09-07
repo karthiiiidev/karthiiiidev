@@ -207,10 +207,7 @@ Web Developer and Front-End Developer with hands-on experience building responsi
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthiiiidev&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiiiidev&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthiiiidev&theme=tokyonight&border_radius=10" width="60%" />
