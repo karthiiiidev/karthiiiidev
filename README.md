@@ -213,9 +213,7 @@ Web Developer and Front-End Developer with hands-on experience building responsi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthiiiidev&theme=tokyonight&border_radius=10" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiiiidev&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
+
 
 <br/>
 
