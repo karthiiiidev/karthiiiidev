@@ -220,7 +220,6 @@ Web Developer and Front-End Developer with hands-on experience building responsi
 <br/>
 
 <!-- ================= ANIMATED FOOTER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=140&section=footer" width="100%"/>
 
 <p align="center">
   <i>Thanks for stopping by — let's build something great together 🚀</i>
