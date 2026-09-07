@@ -1,5 +1,5 @@
-<!-- ================= ANIMATED HEADER (custom SVG wave + gradient text) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,12,6&height=250&section=header&text=Karthik%20S&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Web%20Developer%20%C2%B7%20Founder%20%40%20QUADMEDIA.TVM&descAlignY=58&descSize=20&descColor=94A3B8" width="100%"/>
+<!-- ================= ANIMATED GRADIENT HEADER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=260&section=header&text=Hi,%20I'm%20Karthik%20S%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Web%20Developer%20%7C%20Founder%20%40%20QUADMEDIA.TVM&descAlignY=52&descSize=18" width="100%"/>
 
 <!-- ================= TYPING TEXT EFFECT ================= -->
 <div align="center">
@@ -208,25 +208,23 @@ Web Developer and Front-End Developer with hands-on experience building responsi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthiiiidev&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&count_private=true&hide_title=false" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiiiidev&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karthiiiidev&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiiiidev&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=karthiiiidev&theme=tokyonight&border_radius=10" width="60%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthiiiidev&theme=tokyonight&border_radius=10" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiiiidev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiiiidev&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
-
-> **Note:** If any stat card above doesn't render, GitHub's badge/image proxy can take a minute to cache on a brand-new repo — refresh the README a few times after pushing, or confirm the `karthiiiidev` username matches exactly (case-sensitive) in each URL.
 
 <br/>
 
-<!-- ================= ANIMATED FOOTER (matches header gradient) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,24&height=160&section=footer" width="100%"/>
+<!-- ================= ANIMATED FOOTER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=140&section=footer" width="100%"/>
 
 <p align="center">
-  <sub><i>Thanks for stopping by — let's build something great together 🚀</i></sub>
+  <i>Thanks for stopping by — let's build something great together 🚀</i>
 </p>
